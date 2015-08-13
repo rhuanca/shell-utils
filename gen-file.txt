@@ -1,0 +1,2 @@
+Sample usage:
+./gen-file.sh A 10 > a.txt
